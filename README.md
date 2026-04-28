@@ -241,11 +241,11 @@ The login endpoint auto-saves the JWT token to your Postman environment!
 
 | Page      | Preview                                   |
 |-----------|-------------------------------------------|
-| Login     | ![Login](./Screenshots/login.png)         |
+| Login     | ![Login](./Screenshots/Login.png)         |
 | Home      | ![Home](./Screenshots/Home.png)           |
-| Dashboard | ![Dashboard](./Screenshots/dashboard.png) |
-| Expenses  | ![Expenses](./Screenshots/expenses.png)   |
-| Insights  | ![Insights](./Screenshots/insights.png)   |
+| Dashboard | ![Dashboard](./Screenshots/Dashboard.png) |
+| Expenses  | ![Expenses](./Screenshots/Expenses.png)   |
+| Insights  | ![Insights](./Screenshots/Insights.png)   |
 
 ---
 
